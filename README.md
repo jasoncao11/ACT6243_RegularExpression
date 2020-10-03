@@ -5,4 +5,4 @@
 ## Note    
 A Regex, or Regular Expression, is a sequence of characters that forms a search pattern. Regex can be used to check if a string contains the specified search pattern.    
 
-Python has a built-in package called re, which can be used to work with Regular Expressions.
+Python has a built-in package called [link to re!](https://docs.python.org/3/library/re.html), which can be used to work with Regular Expressions.
